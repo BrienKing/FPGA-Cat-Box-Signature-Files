@@ -1,0 +1,35 @@
+Game	Centipede
+Description	Address Decoding
+Start	
+Stop	
+Clock	
+Stop to start	
+Clock to Phase2	
+Enable addr counter	
+Start to A15	
+Signal	Location	Pin	Signature
+-	K3	10	3C97
+ROM	J3	8	3C97
+ROM3	J2	9	51U7
+ROM2	J2	10	2960
+ROM1	J2	11	5P33
+ROM0	J2	12	1H32
+-	H3	11	A8H2
+-	H3	10	C5P1
+-	H3	9	U550
+-	H3	7	9UC6
+-	H3	6	0UA5
+POKEY	H3	5	F733
+-	H3	4	4231
+SWRD	H3	3	3580
+PF	H3	2	4P5C
+RAM0	H3	1	A00H
+-	J3	11	F6HP
+-	C5	8	F97A
+EA READ	C4	6	0099
+EA CONTROL	C4	5	U08U
+EA ADDR	C4	4	HF7A
+IN0	E3	3	0294
+-	K3	12	5554
+IN1	E3	6	40A4
+PFRAMRD	E3	8	4P5C
