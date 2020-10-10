@@ -5,10 +5,11 @@ Eveyone is welcome to contribute and I have written software that interfaces wit
 
 The structure should be:
 
+'''
 Manufacturer 
      |____ Game Title
                |_____ Signature Files
-               
+'''               
                
 For convenience sake, should use the common name of the manufacturer.  For example, instead of say Atari Games, just use Atari.
 
