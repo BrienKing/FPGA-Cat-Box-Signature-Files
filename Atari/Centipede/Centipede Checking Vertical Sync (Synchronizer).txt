@@ -1,0 +1,18 @@
+Game	Centipede
+Description	Checking Vertical Sync (Synchronizer)
+Notes	
+Start	NEG
+Stop	NEG
+Clock	Phase2	NEG
+Stop to start	
+Clock to Phase2	
+Enable addr counter	
+Start to A15	
+Force Write	FALSE
+NOP Mode	FALSE
+Signal	Location	Pin	Signature
+		0	
+-	P3	15	H7P4
+1V	P3	14	3F3U
+2V	P3	13	UUCC
+4V	P3	12	2A42
