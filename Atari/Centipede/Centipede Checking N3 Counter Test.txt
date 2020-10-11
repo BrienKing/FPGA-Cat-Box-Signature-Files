@@ -1,0 +1,26 @@
+Game	Centipede
+Description	Checking N3 Counter Test
+Notes	
+Start	NEG
+Stop	NEG
+Clock	Phase2	NEG
+Stop to start	
+Clock to Phase2	
+Enable addr counter	
+Start to A15	
+Force Write	FALSE
+NOP Mode	FALSE
+Signal	Location	Pin	Signature
+16V	N3	14	239F
+32V	N3	13	6U0H
+64V	N3	12	U047
+-	P4	9	F91U
+-	P4	10	5890
+-	P4	11	108A
+-	P4	12	FUU7
+VBLANK	N4	10	9H7H
+VBLANK	N4	11	C697
+VRESET	N4	6	94FP
+VSYNC	N4	2	F5U6
+VSYNC	N4	3	PP1F
+VBLANKD	M4	10	8F15
