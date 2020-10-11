@@ -1,0 +1,27 @@
+Game	Centipede
+Description	Checking M2 Counter Test
+Notes	
+Start	NEG
+Stop	NEG
+Clock	Phase2	NEG
+Stop to start	
+Clock to Phase2	
+Enable addr counter	
+Start to A15	
+Force Write	FALSE
+NOP Mode	FALSE
+Signal	Location	Pin	Signature
+-	M2	15	FH5F
+128H	M2	14	4596
+-	N1	10	CC34
+-	M3	8	1979
+HSYNC	M3	5	P77U
+HSYNC	M3	6	309C
+256H2D	M4	3	2633
+256HD	M4	15	A829
+256HD	M4	14	7UFH
+4H	N1	4	H93H
+COLOREN	L4	3	A829
+-	L4	2	7UFH
+HBLANK	L8	11	8304
+-	D4	8	24U5
