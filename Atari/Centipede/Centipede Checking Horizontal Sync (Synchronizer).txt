@@ -1,0 +1,20 @@
+Game	Centipede
+Description	Checking Horizontal Sync (Synchronizer)
+Notes	
+Start	NEG
+Stop	NEG
+Clock	Phase2	NEG
+Stop to start	
+Clock to Phase2	
+Enable addr counter	
+Start to A15	
+Force Write	FALSE
+NOP Mode	FALSE
+Signal	Location	Pin	Signature
+		0	
+-	P2	15	0102
+6MHZ	P2	14	55H1
+1H	P2	13	334U
+2H	P2	12	0U16
+-	K4	11	0102
+6MHZ	N1	6	ACA2
