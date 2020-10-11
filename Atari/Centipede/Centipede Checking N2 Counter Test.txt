@@ -1,0 +1,17 @@
+Game	Centipede
+Description	Checking N2 Counter Test
+Notes	
+Start	NEG
+Stop	NEG
+Clock	Phase2	NEG
+Stop to start	
+Clock to Phase2	
+Enable addr counter	
+Start to A15	
+Force Write	FALSE
+NOP Mode	FALSE
+Signal	Location	Pin	Signature
+-	N2	15	C3F2
+8H	N2	14	7P25
+16H	N2	13	85PA
+32H	N2	12	77F7
