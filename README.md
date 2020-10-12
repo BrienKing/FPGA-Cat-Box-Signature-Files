@@ -13,7 +13,7 @@ Manufacturer
                
 For convenience sake, should use the common name of the manufacturer.  For example, instead of say Atari Games, just use Atari.
 
-If there are multiple versions of a board, I would say create multiple Game Title directories under the main title.
+If there are multiple versions of a board, I would say create multiple Game Revision directories under the title directory.
 
 For example:
 ```
@@ -23,13 +23,14 @@ For example:
            |__ Rev B
 ```
 
-If the board has multiple manufacturers such as Dig Dug has an Atari Version and Namco version, please create a Namco Manufacturer directory and put the signatures under there.
+If the board has multiple manufacturers such as Dig Dug has an Atari Version and Namco version, please create a Manufacturer specific directory and put the signatures under the approriate one.
 
 For example:
 ```
   Atari
-    |__ Dig Dug Board A
-    |__ Dig Dug Board B
+    |__ Dig Dug
+           |__ Rev A
+           |__ Rev B
   Namco
     |__ Dig Dug
 ```    
