@@ -1,0 +1,30 @@
+Game	Millipede
+Description	Address Bus Signatures
+Author	Brien King
+Contributors	
+Notes	
+Start	NEG
+Stop	NEG
+Clock	Phase2	NEG
+Stop to start	
+Clock to Phase2	
+Enable addr counter	
+Start to A15	
+Force Write	FALSE
+NOP Mode	FALSE
+Signal	Location	Pin	Signature
+AB0	1D/E	16	UUUU
+AB1	1D/E	12	5555
+AB2	1D/E	14	CCCC
+AB3	1D/E	18	7F7F
+AB4	1D/E	9	5H21
+AB5	1D/E	7	0AFA
+AB6	1D/E	3	UPFH
+AB7	1D/E	5	52F8
+AB8	1C/D	3	HC89
+AB9	1C/D	5	2H70
+AB10	1C/D	9	HPPO
+AB11	1C/D	7	1293
+AB12	1C/D	16	HAP7
+A13	1B	14	3C96
+A15	2C	25	755U
