@@ -1,0 +1,31 @@
+Game	Millipede
+Description	Address Decoders
+Author	Brien King
+Contributors	
+Notes	
+Start	NEG
+Stop	NEG
+Clock	Phase2	NEG
+Stop to start	
+Clock to Phase2	
+Enable addr counter	
+Start to A15	
+Force Write	FALSE
+NOP Mode	FALSE
+Signal	Location	Pin	Signature
+MOS	1B	1	822A
+SCRAM	1B	2	A169
+I/O	1B	3	C5U3
+ROM1	1B	5	ICFH
+ROM2	1B	6	0319
+ROM3	1B	7	U6U2
+ROM4	1B	9	H601
+INPUTS	3E	4	72P5
+OUTPUTS	3E	5	062F
+I/OS1	3E	10	HCC5
+I/OS0	3E	11	9PPA
+ZRAM	3E	12	9ACA
+ROM	4F	3	96C0
+EAROMRD	4H	9	61F3
+IN1	4H	11	4696
+IN0	4H	12	4H6H
