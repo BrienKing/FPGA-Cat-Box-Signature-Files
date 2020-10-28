@@ -1,9 +1,11 @@
 Game	Centipede
 Description	Checking N2 Counter Test
+Author	Brien King
+Contributors	
 Notes	
 Start	NEG
 Stop	NEG
-Clock	Phase2	NEG
+Clock	Phase2	NEG
 Stop to start	
 Clock to Phase2	
 Enable addr counter	
