@@ -1,1 +1,1 @@
-This is all the Signature Files for Centipede
+This is all the Signature Files for Centipede.
