@@ -1,5 +1,7 @@
 Game	Centipede
 Description	Address Lines
+Author	Brien King
+Contributors	
 Notes	
 Start	
 Stop	
