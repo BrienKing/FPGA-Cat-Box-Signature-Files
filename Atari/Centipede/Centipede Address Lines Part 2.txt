@@ -1,10 +1,21 @@
-Game	Centipede
+Game	Centipede
 Description	Address Lines Part 2
-Notes	For the following tests, ground J2 Pin 1
-Notes	
+Author	Brien King
+Contributors	
+Notes	For the following tests, ground J2 Pin 1
 Start	NEG
 Stop	NEG
 Clock	Phase2	NEG
+Stop to start	
+Clock to Phase2	
+Enable addr counter	
+Start to A15	
+Force Write	FALSE
+NOP Mode	FALSE
+Notes	
+Start	NEG
+Stop	NEG
+Clock	Phase2	NEG
 Stop to start	
 Clock to Phase2	
 Enable addr counter	
